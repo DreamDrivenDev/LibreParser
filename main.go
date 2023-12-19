@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	libre.Parse("libreEx.odt")
+	libre.Parse("sample1.odt")
 }
